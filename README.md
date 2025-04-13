@@ -87,5 +87,6 @@ class ColoredBlocks extends StatelessWidget {
 }
 
 ```
-<img src="img.png" width="500">
+![img](https://github.com/user-attachments/assets/2846df3c-0e58-4ab7-9f8a-4a4b7742363f)
+
 
